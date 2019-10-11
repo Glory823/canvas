@@ -1,0 +1,6 @@
+
+.canvasView {
+	margin: 50rpx 10rpx 0;
+	border: 1rpx solid #ccc;
+}
+

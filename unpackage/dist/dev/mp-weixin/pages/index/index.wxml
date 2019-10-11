@@ -1,0 +1,1 @@
+<view><view class="canvasView"><canvas style="width:300px;height:400px;" canvas-id="firstCanvas"></canvas></view><view class="button-sp-area" style="margin:20px;"><button type="default" plain="true" size="default">保存后分享</button></view></view>
